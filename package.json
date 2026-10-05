@@ -1,0 +1,14 @@
+{
+  "name": "certidoes-pprj",
+  "version": "1.0.0",
+  "description": "Guia e auxílio para emissão de certidões exigidas no concurso da Polícia Penal do Estado do Rio de Janeiro (PPRJ).",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "echo 'Static site, no build needed'"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
